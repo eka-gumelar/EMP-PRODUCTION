@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Monitoring Performance",
+  "description": "Dashboard Monitoring Performance Manpower dengan fitur pencatatan absensi, input pencapaian target, deteksi screenshot excel berbasis AI Gemini, serta manajemen manpower lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
